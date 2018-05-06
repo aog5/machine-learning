@@ -3,6 +3,7 @@
 ### Capstone Project
 ### Alison O. Gaby
 
+* NOTE TO READER * : THIS DATASET HAS BEEN UPDATED.
 #### **Links to Data:**
 * General Information about NYC Open Data Initiative:
 https://opendata.cityofnewyork.us/
@@ -15,6 +16,7 @@ https://opendata.cityofnewyork.us/
    * Individual Income Tax ZIP Code Data: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2015-zip-code-data-soi
 * Air Quality by Zip Code
    * Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2) : https://catalog.data.gov/dataset/air-quality-ef520
+* Actual data used can be found here: https://public.enigma.com/datasets/new-york-city-property-sales/fd6efa37-2dcd-4294-8795-a0e6044f15b4
 
 #### **Dataset Info:**
 * Rolling Sales Data - This dataset is the City of New York’s Department of Finance’s collection of property listings that sold in the last twelve-month period. Total Records: 27,188 sales
@@ -40,6 +42,8 @@ https://opendata.cityofnewyork.us/
         * BUILDING CLASS AT TIME OF SALE
         * SALE PRICE
         * SALE DATE
+        * Latitude
+        * Longitude
         
 * Annualized Sales Update- This is a collection of yearly sales information of properties sold in New York City between the years 2005 to 2016. (Only data from the years 2013-2016 was used).
     * This dataset includes the following attributes, grouped by neighborhood, and type of home:
